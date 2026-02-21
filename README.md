@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6-2ozUWIV4m6Ol0mHZ1x7lxi4sdt9nA3Ng&s" width="824" alt="Interface"/>
+<img src="https://www.maclife.de/media/maclife/styles/tec_frontend_fullscreen/public/images/editors/2022_32/image-121167--4593955.jpeg?itok=zues82V9" width="824" alt="Interface"/>
 
 </div>
 
